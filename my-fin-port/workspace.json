@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "my-fin-port": "apps/my-fin-port",
+    "my-fin-port-e2e": "apps/my-fin-port-e2e"
+  }
+}

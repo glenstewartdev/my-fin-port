@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@nrwl/angular": "^14.5.4"
+  }
+}
